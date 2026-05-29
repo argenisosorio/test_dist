@@ -1,1 +1,0 @@
-import{B as t,o as a,c as e}from"./CpEmcvnf.js";const k={__name:"GoBack",setup(s){const c=t(),o=()=>{c.back()};return(n,r)=>(a(),e("button",{class:"btn-back",onClick:o}," ⬅ Go back "))}};export{k as _};

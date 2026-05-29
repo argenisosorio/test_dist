@@ -1,1 +1,0 @@
-import{_ as o}from"./BskOliSe.js";import{u as a}from"./BSmw5RIx.js";import{u as n,f as r,o as s,c as _,b as c}from"./CpEmcvnf.js";const f={__name:"index",setup(u){a({title:"SINIDOT"});const e=n("loader");return e.value=!0,r(()=>{e.value=!1}),(l,m)=>{const t=o;return s(),_("div",null,[c(t,{text:"Bienvenido al SINIDOT"})])}}};export{f as default};
