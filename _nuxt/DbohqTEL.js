@@ -1,0 +1,1 @@
+import{a5 as c,U as r,q as e,L as a,a7 as l,V as s}from"./BDH6Z3bZ.js";const d=c(()=>{const t=r("access_token",s);if(!t.value)return e(a.LOGIN,{replace:!0});const o=l(t.value);if(!o?.exp)return e(a.LOGIN,{replace:!0});const n=Math.floor(Date.now()/1e3),u=r("refresh_token",s);if(o.exp<n&&!u.value)return e(a.LOGIN,{replace:!0})});export{d as default};

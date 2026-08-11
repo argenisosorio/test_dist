@@ -1,0 +1,1 @@
+import{a5 as r,S as s,a6 as u,q as i,L as n}from"./BDH6Z3bZ.js";const c=r(async()=>{let t,a;const e=s();if(e.user||([t,a]=u(()=>e.fetchCurrentUser()),await t,a()),!e.isAdmin)return i(n.HOME,{replace:!0})});export{c as default};
